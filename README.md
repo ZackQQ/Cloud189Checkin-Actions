@@ -1,5 +1,5 @@
 # Cloud189Checkin
-test
+te
 天翼云盘每日签到一次，抽奖2次
 使用方法
 1.测试环境为python3.7.6,自行安装python3
