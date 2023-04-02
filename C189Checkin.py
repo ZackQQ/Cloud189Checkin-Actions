@@ -7,8 +7,8 @@ username = ""
 password = ""
 
 if(username == "" or password == ""):
-    username = input("账号：")
-    password = input("密码：")
+    username = input("19941468994")
+    password = input("Gp1937.28")
 
 def main():
     login(username, password)
